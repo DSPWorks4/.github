@@ -1,6 +1,6 @@
  <h1 style= "font-size:20 em;" align= center> <b>DSPworks</b> </h1>
 
-![Logo](https://github.com/DSPWorks4/.github/blob/main/Logo.png?raw=true)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/029644e3-6ecf-4d65-9a5b-bcc08c618059" />
 
 Welcome to DSPworks!
 This organization brings together SOTA open-source projects built on Digital Signal Processing principles, with a strong emphasis on audio and biosignal interpretation, as well as implementation with machine and deep learning models.
