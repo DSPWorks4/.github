@@ -21,3 +21,11 @@ Furthermore, it demonstrates robust performance and consistency across varying s
 
 
 ![Accuracy Vs Sample Rate](https://raw.githubusercontent.com/DSPWorks4/.github/refs/heads/main/Results.jfif)
+
+### [Anti-Aliasing Neural Audio](https://github.com/DSPWorks4/Anti-Aliasing.git)
+
+The project combines traditional DSP filtering with neural network–based reconstruction to ensure smooth, high-fidelity sound across varying sampling frequencies.
+It demonstrates how hybrid models can deliver cleaner, alias-free audio without sacrificing important signal detail.
+
+
+<img width="1584" height="1011" alt="image" src="https://github.com/user-attachments/assets/50a11d30-331b-4dc9-88b3-5068c299a391" />
