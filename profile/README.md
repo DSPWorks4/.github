@@ -9,19 +9,19 @@ This organization brings together SOTA open-source projects built on Digital Sig
 > *We strive to bridge the gap between academic theory and practical application — enabling innovation across multiple fields.*
 > ---
 ---
-## Projects 
+# Projects 
 
-### [Medical Signal Classifiers](https://github.com/DSPWorks4/Medical-Signal-Classifiers-) :
+## [Medical Signal Classifiers](https://github.com/DSPWorks4/Medical-Signal-Classifiers-) :
 
 It proposes and implements a comprehensive set of Machine Learning (ML) and Deep Learning (DL)–based classification models designed to address a diverse range of diseases and biomedical conditions across multiple signal modalities.
-These include EEG, ECG.
+These include EEG and ECG.
 By integrating domain-specific feature extraction techniques with state-of-the-art neural architectures, the framework aims to improve diagnostic accuracy, reduce model training complexity, and bridge the gap between signal-level understanding and clinical insight.
 Furthermore, it demonstrates robust performance and consistency across varying sampling frequencies, highlighting the models’ adaptability and reliability.
 
 ![Accuracy Vs Sample Rate](Results.png)
 
 
-### [Anti-Aliasing Neural Audio](https://github.com/DSPWorks4/Anti-Aliasing.git)
+## [Anti-Aliasing Neural Audio](https://github.com/DSPWorks4/Anti-Aliasing.git)
 
 The project combines traditional DSP filtering with neural network–based reconstruction to ensure smooth, high-fidelity sound across varying sampling frequencies.
 It demonstrates how hybrid models can deliver cleaner, alias-free audio without sacrificing important signal detail.
@@ -29,8 +29,24 @@ It demonstrates how hybrid models can deliver cleaner, alias-free audio without 
 <img width="1584" height="1011" alt="image" src="https://github.com/user-attachments/assets/50a11d30-331b-4dc9-88b3-5068c299a391" />
 
 
-### [Signal-Equalizer](https://github.com/DSPWorks4/Equalizer.git)
+## [Signal-Equalizer](https://github.com/DSPWorks4/Equalizer.git)
 
 A full-stack audio processing system that combines AI-powered audio separation, custom equalization, and real-time audio analysis. It supports music and voice separation, dynamic FFT/STFT processing for editing, remixing, and analysis.
 
 <img width="1584" height="1011" alt="image" src="Separation.png" />
+
+
+## [Beamforming-Mixer](https://github.com/DSPWorks4/Mixer-Beamforming)
+
+Beamforming is a  signal processing approach where multiple sensors work together to emphasize signals from one direction and reduce interference from others, resulting in clearer and more reliable detection.
+
+<img width="1584" height="1011" alt="image" src="Phased Array.png" />
+
+
+## [Hum-to-Search](https://github.com/DSPWorks4/Humming-Detection)
+
+Humming Detection System identifies songs from humming or singing, tolerating variations in pitch and tempo.
+
+In contrast to Shazam’s audio-fingerprinting approach, it emphasizes melodic similarity, enabling reliable matching across different keys, tempos, and sound sources.
+
+<img width="1584" height="1011" alt="image" src="Hum to Search.jpg" />
